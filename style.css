@@ -8,9 +8,7 @@ head{
 }
 
  body{
-   background-image: url(images/jouhou.img01);
-   background-repeat: no-repeat;
-   background-size: cover;
+  background-color:#FFFF9;
  }
 
 h1{
