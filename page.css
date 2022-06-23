@@ -1,0 +1,61 @@
+tml{
+    font-size: 100%;
+}
+head{
+  position:relative;
+  height:40px;
+}
+ body{
+   background-color: #FFFFF9;
+ }
+ h1{
+     position:absolute;
+     top:300px;
+     left:100px;
+     font-size: 3rem;
+     font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+   }
+
+   h2{
+     font-size:2rem;
+   }
+
+   h3{
+     font-size:2rem;
+   }
+
+  h4{
+   color:#4169e1;
+  }
+   .class1 {
+     position: absolute;
+     top:200px;
+     right:100px;
+}
+
+   nav{
+      position: absolute;
+      top:30px;
+      right:10px;
+      font-size: 2rem;
+      font-family: "Quicksand Regular ",sans-serif;
+   }
+   nav ul{
+     display: flex;
+     list-style-type: none
+   }
+   nav ul li{
+     margin-right: 2rem;
+   }
+   nav ul li a {
+     color:#24140e;
+   }
+
+   article{
+     position:absolute;
+     top:600px;
+     left:200px;
+     font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+   }

@@ -1,0 +1,78 @@
+html{
+    font-size: 100%;
+}
+head{
+  position:relative;
+  height:40px;
+}
+
+body{
+  background-image: url(images/jouhou.img01);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+   position:absolute;
+   top:30px;
+   left:10px;
+   color:pink;
+   font-size: 2rem;
+ }
+
+
+
+nav {
+  position: relative;
+}
+
+.heade-menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(64,64,64,.7);
+  box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
+}
+
+.header-menu li {
+  height: 3rem;
+  border-bottom: solid 1px #AAA;
+}
+
+.header-menu a {
+  display: block;
+  padding: 0.75rem;
+  text-align: center;
+  color: #F7C6BD;
+}
+
+.header-menu a:hover {
+  background-color: #EAF6FD;
+}
+
+
+
+ main{
+
+ }
+
+
+   article{
+     margin-top: 400px
+
+   }
+  div{
+    margin-top: 500px
+  }
+
+ p{
+   text-align: center;
+   font-size: 20px;
+   font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+ }
+
+ div{
+   position: absolute;
+
+ }
