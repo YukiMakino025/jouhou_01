@@ -59,7 +59,7 @@ nav.header-menu ul li a {
     font-size: 2rem;
     display: flex;
     list-style-type: none;
-    border-top: 3px solid #0bd;
+    border-top: 3px solid;
 
 }
 
