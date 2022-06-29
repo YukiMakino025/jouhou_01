@@ -1,0 +1,108 @@
+html{
+    font-size: 100%;
+    background-color:#FFFFF9;
+}
+head{
+  position:relative;
+  height:40px;
+  background-color:#FFFFF9;
+}
+header{
+  background-color:#FFFFF9;
+}
+
+ div.image01{
+   vertical-align: middle;
+
+ }
+
+ .navButton {
+   display: block;
+   position: absolute;
+   top: 2rem;
+   right: 2rem;
+ }
+
+ .navButton a {
+   color: #F7C6BD;
+   font-size: 1.25rem;
+ }
+
+
+.heade-menu {
+  position: static;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(64,64,64,.7);
+  box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
+}
+
+.header-menu li {
+  height: 3rem;
+}
+
+.header-menu a {
+  display: block;
+  text-align: center;
+  color: #F7C6BD;
+}
+
+nav.header-menu ul{
+  display: block;
+}
+
+.header-menu a:hover {
+  background-color: #EAF6FD;
+}
+div.about{
+  border-top:solid;
+  border-bottom: solid;
+  background-color:#FFFFF9;
+  margin-top: 20px;
+}
+h1{
+  padding: 100px;
+  font-size:2rem;
+  font-weight:bold;
+  text-align: center;
+  font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+}
+
+/* div.how-to{
+ background-image:url(images/how-to-01.png);
+
+} */
+
+
+ p{
+   text-align: center;
+   font-size: 15px;
+   font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+ }
+
+ nav.footer-menu{
+   position: static;
+
+ }
+
+
+ nav.footer-menu ul{
+   display: block;
+   
+ }
+
+ .row {
+   display: block;
+ }
+.col {
+  width: 100%;
+}
+
+
+
+div.image02{
+  text-align: right;
+  padding-right: 60px;
+}

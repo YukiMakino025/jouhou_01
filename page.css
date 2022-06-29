@@ -1,0 +1,92 @@
+tml{
+    font-size: 100%;
+}
+head{
+  position:relative;
+  height:40px;
+}
+div.image01{
+  padding-left:60px;
+}
+ body{
+   background-color: #FFFFF9;
+ }
+
+ h1{
+     top:400px;
+     left:100px;
+     font-size: 2rem;
+     font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+   }
+
+   .class1 {
+     top:200px;
+     right:100px;
+}
+
+   h2{
+     top: 600px;
+     left: 100px;
+     font-size:2rem;
+   }
+
+   h3{
+
+   }
+
+  h4{
+   color:#4169e1;
+  }
+   .class1 {
+
+     top:200px;
+     right:100px;
+}
+
+   nav.header-menu{
+      position: absolute;
+      top:90px;
+      right:30px;
+      font-size: 2rem;
+      font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+   }
+   nav.header-menu ul{
+     display: flex;
+     list-style-type: none
+   }
+   nav.header-menu ul li{
+     margin-right: 2rem;
+   }
+   nav.header-menu ul li a {
+     color:#24140e;
+   }
+
+   article{
+
+     top:600px;
+     left:200px;
+     font-family: "ヒラギノ丸ゴ　pro W4","Hiragino Maru Gothic Pro",sans-serif;
+
+   }
+
+   div.image02{
+     text-align: right;
+     padding-right: 60px;
+   }
+   nav.footer-menu ul{
+     display: flex;
+     list-style-type: none
+   }
+   nav.footer-menu ul li{
+     margin-right: 2rem;
+   }
+
+   nav.footer-menu ul li a {
+     color:#24140e;
+   }
+
+   .navButton {
+     display: none;
+   }
